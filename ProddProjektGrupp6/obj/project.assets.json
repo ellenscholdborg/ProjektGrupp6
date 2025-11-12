@@ -8,24 +8,19 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hille\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ellis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hille\\Documents\\GitHub\\ProjektGrupp6\\ProddProjektGrupp6\\ProddProjektGrupp6.csproj",
-      "projectName": "ProddProjektGrupp6",
-      "projectPath": "C:\\Users\\hille\\Documents\\GitHub\\ProjektGrupp6\\ProddProjektGrupp6\\ProddProjektGrupp6.csproj",
-      "packagesPath": "C:\\Users\\hille\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hille\\Documents\\GitHub\\ProjektGrupp6\\ProddProjektGrupp6\\obj\\",
+      "projectUniqueName": "C:\\Users\\Ellis\\OneDrive\\Dokument\\GitHub\\ProjektGrupp6\\ProddProjektGrupp6\\PoddProjektGrupp6.csproj",
+      "projectName": "PoddProjektGrupp6",
+      "projectPath": "C:\\Users\\Ellis\\OneDrive\\Dokument\\GitHub\\ProjektGrupp6\\ProddProjektGrupp6\\PoddProjektGrupp6.csproj",
+      "packagesPath": "C:\\Users\\Ellis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ellis\\OneDrive\\Dokument\\GitHub\\ProjektGrupp6\\ProddProjektGrupp6\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hille\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Ellis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -52,7 +46,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0-windows7.0": {
@@ -68,24 +62,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.10, 9.0.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[9.0.10, 9.0.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[9.0.10, 9.0.10]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[9.0.10, 9.0.10]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -94,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

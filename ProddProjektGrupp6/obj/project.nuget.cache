@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WeyPR5xjrfg=",
+  "dgSpecHash": "oCZDt5RZ24I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hille\\Documents\\GitHub\\ProjektGrupp6\\ProddProjektGrupp6\\ProddProjektGrupp6.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\hille\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.10\\microsoft.windowsdesktop.app.ref.9.0.10.nupkg.sha512",
-    "C:\\Users\\hille\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.10\\microsoft.netcore.app.ref.9.0.10.nupkg.sha512",
-    "C:\\Users\\hille\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.10\\microsoft.aspnetcore.app.ref.9.0.10.nupkg.sha512",
-    "C:\\Users\\hille\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.10\\microsoft.netcore.app.host.win-x64.9.0.10.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ellis\\OneDrive\\Dokument\\GitHub\\ProjektGrupp6\\ProddProjektGrupp6\\PoddProjektGrupp6.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
